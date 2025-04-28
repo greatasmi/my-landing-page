@@ -64,7 +64,7 @@ export default function Home() {
 
     {/* Highlights Section */}
     <div className="w-full max-w-3xl mx-auto flex flex-col gap-3 p-6  text-base sm:text-lg">
-        <p>「小学三年生の時、彼の株式投資のキャリアは既にスタートしました」節約オタクふゆこ</p>
+        <p>「小学三年生の時、彼女 株式投資のキャリアは既にスタートしました」節約オタクふゆこ</p>
       
       </div>
 
