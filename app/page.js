@@ -159,7 +159,7 @@ export default function Home() {
 {/* Increased wrapper size */}
 <div className="w-full max-w-2xl">
   <Image
-    src="/images/4.jpg"
+    src="/images/4.png"
     alt="Header Banner"
     width={800} // increased from 1200
     height={800} // increased from 800
