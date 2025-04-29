@@ -26,7 +26,7 @@ export default function Animate() {
           visible ? 'scale-105 opacity-100' : 'scale-95 opacity-70'
         }`}
         onClick={() => {
-          window.location.href = "https://line.me/ti/p/kDtqFxEuzR";
+          window.location.href = "https://works.do/xfO76NJ";
         }}
       >
         {/* Background Image */}
