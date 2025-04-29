@@ -8,7 +8,7 @@ export default function LineButton() {
       <div
         className="relative cursor-pointer transform transition-transform duration-300 hover:scale-105"
         onClick={() => {
-          window.location.href = "https://line.me/ti/p/kDtqFxEuzR";
+          window.location.href = "https://works.do/xfO76NJ";
         }}
         style={{ width: 700, height: 100 }}
       >
